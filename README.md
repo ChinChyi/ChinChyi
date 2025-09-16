@@ -7,9 +7,9 @@ I'm **QI QIN(秦萁)**, a Researcher at Shanghai AI Lab and incoming PhD student
 ### 🎨 **Generative Models**
 - **Image Generation**:
   - [Lumina-Image 2.0](https://github.com/Alpha-VLLM/Lumina-Image-2.0) (![GitHub stars](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Image-2.0?style=social)) - A Unified and Efficient Image Generative Framework.
-  - [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-DiMOO) (![GitHub stars](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-mGPT?style=social)) - Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining.
+  - [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) (![GitHub stars](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-mGPT?style=social)) - Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining.
 - **Video Generation**:
-  - [Lumina-Video](https://github.com/Alpha-VLLM/Lumina-Image-2.0) (![GitHub stars](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video?style=social)) - Efficient and Flexible Video Generation with Multi-scale Next-DiT.
+  - [Lumina-Video](https://github.com/Alpha-VLLM/Lumina-Video) (![GitHub stars](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video?style=social)) - Efficient and Flexible Video Generation with Multi-scale Next-DiT.
 
 ### 🧠 **Unified Image Generation and Understanding Models** 
 - **AutoRegressive**:
