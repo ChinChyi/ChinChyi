@@ -11,7 +11,7 @@ I'm **QI QIN(秦萁)**, a Researcher at Shanghai AI Lab and incoming PhD student
 - **Video Generation**:
   - [Lumina-Video](https://github.com/Alpha-VLLM/Lumina-Image-2.0) (![GitHub stars](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video?style=social)) - Efficient and Flexible Video Generation with Multi-scale Next-DiT.
 
-### 🧠 **Unified Understanding Models** 
+### 🧠 **Unified Image Generation and Understanding Models** 
 - **AutoRegressive**:
   - [Lumina-mGPT-2.0](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0) (![GitHub stars](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-mGPT-2.0?style=social)) - Stand-Alone AutoRegressive Image Modeling.
 - **Diffusion Large Language Model**:
